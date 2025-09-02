@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(235, 17, 17);
+    font-family:Verdana,Geneva, tahoma, sans-serif;
+}
+
+.central{
+    text-align: center;
+}
+
+.li{
+    display:inline;
+
+}
+
+
+.item-menu{
+
+    display:inline;
+    margin:  0.4rem;
+    background-color: antiquewhite;
+    padding: 0.7rem;
+    padding-right: 1rem;
+    border-right-style: solid;
+    border-color: olive;
+    border-width: 0.5rem;
+
+}
+
+.item-menu-a:hoover{
+
+    background-color: burlywood;
+    color:dimgray;
+}
+
+
+a:hoover{
+
+    background-color: burlywood;
+    color:dimgray;
+}
+
+.menu{
+
+    background-color: black;
+    padding: 0.7rem;
+
+}
+
+td{
+    padding:0.4;
+
+}
